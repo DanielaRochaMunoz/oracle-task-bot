@@ -5,21 +5,6 @@ Project developed in collaboration with Oracle and ITESM to optimize **task mana
 ![image](https://user-images.githubusercontent.com/7783295/116454396-cbfb7a00-a814-11eb-8196-ba2113858e8b.png)
 
 ---
-
-## Table of Contents
-- [Overview](#overview)
-- [Architecture & Design](#architecture--design)
-- [Main Features](#main-features)
-- [Results & KPIs](#results--kpis)
-- [Tech Stack](#tech-stack)
-- [Testing Strategy](#testing-strategy)
-- [Installation & Execution](#installation--execution)
-- [Security](#security)
-- [Future Work & Scalability](#future-work--scalability)
-- [License](#license)
-
----
-
 ## Overview
 The system integrates a **Telegram bot** with a **Spring Boot backend** deployed on **Oracle Cloud Infrastructure (OCI)** using **microservices, Docker, and Kubernetes**.
 
@@ -137,8 +122,3 @@ docker run -p 8080:8080 task-bot:1.0
 - Load balancing  
 - Caching strategies  
 - Auto-scaling in OCI  
-
----
-
-## License
-Academic and research use.
